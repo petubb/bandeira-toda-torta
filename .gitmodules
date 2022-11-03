@@ -1,0 +1,3 @@
+[submodule "eclipse-workspace/atividade/src/DesafioPri/eclipse-workspace/atividade/src/DesafioPri/crud"]
+	path = eclipse-workspace/atividade/src/DesafioPri/eclipse-workspace/atividade/src/DesafioPri/crud
+	url = https://github.com/petubb/crud.git
